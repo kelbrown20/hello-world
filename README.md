@@ -13,3 +13,7 @@ This is my test repository
 I am testing the changing of the repository right here
 testing
 testing testing
+
+practicing squashing a commit
+
+practice
